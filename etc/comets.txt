@@ -1,0 +1,16 @@
+# glyph file format:
+# comments and blank lines are ignored
+# <font name> <SPACE> <character> <SPACE OR EOL> <anything beyond this is ignored as a comment>
+
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2604 repeat this so higher chance
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2604 ☄ repeat this so higher chance
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2604 ☄ repeat this so higher chance
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2604 ☄ repeat this so higher chance
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 1F5F1 power burst 🗱
+
+fonts/asorion/ASorion.ttf 006A spiro star
+
+fonts/fluid-spiral/Fluid Spiral.ttf 0042 fluid spiral
+fonts/fluid-spiral/Fluid Spiral.ttf 0061 fluid spiral
+fonts/nautical/Nautical.ttf 0051 swirl
+

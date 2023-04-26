@@ -1,0 +1,35 @@
+# glyph file format:
+# comments and blank lines are ignored
+# <font name> <SPACE> <character> <SPACE OR EOL> <anything beyond this is ignored as a comment>
+
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 1F56D Taco Bell
+fonts/material/MaterialIcons-Regular.ttf EA80 Apple logo
+fonts/material/MaterialIcons-Regular.ttf E57A burger and fries
+
+fonts/bocartes-fritos/Bocartes fritos - OFL-/Bocartes-fritos.ttf 0054 spaghetti
+
+fonts/galaxy-far-far-away/galaxyfaraway.ttf 0027 death star
+fonts/galaxy-far-far-away/galaxyfaraway.ttf 0041 at-at walker
+
+fonts/hall-of-heroes/hallheroes1_1.ttf 0070 punisher
+fonts/hall-of-heroes/hallheroes1_1.ttf 0073 superman
+fonts/hall-of-heroes/hallheroes1_1.ttf 0062 batman
+fonts/hall-of-heroes/hallheroes1_1.ttf 0067 green lantern
+
+fonts/kitty_cats_tfb/kitty cats tfb.ttf 006A cat
+fonts/can_dog_tfb/can dog tfb.ttf 0044 dog
+
+fonts/kr_all_sport/KR All Sport.ttf 0045 bowling
+
+fonts/mediaeval_bats/MediaevalBats.ttf 0063 dragon
+fonts/mediaeval_bats/MediaevalBats.ttf 0021 pegasus
+
+fonts/pizza/Pizza.ttf 5A pizza
+
+fonts/material/MaterialIcons-Regular.ttf E57A burger and fries
+
+fonts/the_octopus/The Octopus.ttf 5B cthulhu
+
+fonts/unicorn_2/Unicorn.ttf 0072 unicorn 
+
+fonts/urban-ecology/UrbanEcology.ttf 00A2 sasquatch

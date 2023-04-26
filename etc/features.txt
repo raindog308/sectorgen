@@ -1,0 +1,444 @@
+# glyph file format:
+# comments and blank lines are ignored
+# <font name> <SPACE> <character> <SPACE OR EOL> <anything beyond this is ignored as a comment>
+
+fonts/212_boys_stuff/212 Boys Stuff.otf 002B top hat
+fonts/212_boys_stuff/212 Boys Stuff.otf 0032 lego
+fonts/212_boys_stuff/212 Boys Stuff.otf 004A swiss army knife
+fonts/212_boys_stuff/212 Boys Stuff.otf 005B moustache
+fonts/212_boys_stuff/212 Boys Stuff.otf 00AD puma
+
+fonts/212-girly-stuff/212 Girly Stuff.otf 004B kiss
+fonts/212-girly-stuff/212 Girly Stuff.otf 004A diamond ring
+fonts/212-girly-stuff/212 Girly Stuff.otf 0076 cupcake
+
+fonts/aez_camping/AEZcamping.ttf 0061 hiking
+
+fonts/angels_free/Angels Free.ttf 0061 cupid
+
+fonts/archeology/Archeology.ttf 0059 broke pot
+fonts/archeology/Archeology.ttf 006F archaeology
+fonts/archeology/Archeology.ttf 0066 mag glass
+
+fonts/barrel-of-ninjas/barrelofninjas.otf 0024 masked ninja
+fonts/barrel-of-ninjas/barrelofninjas.otf 00C5 throwing star
+
+fonts/battery_icons/Battery Icons.otf 002D third-full battery
+fonts/battery_icons/Battery Icons.otf 002E two-third-full battery
+
+fonts/breezi_icon_set/breezi_font-webfont.ttf u businessman
+
+fonts/business/Business.ttf 0033 on target
+fonts/business/Business.ttf 0046 Xs and Os
+fonts/business/Business.ttf 006C binocs
+fonts/business/Business.ttf 0051 courthouse
+fonts/business/Business.ttf 00C5 money thinking
+fonts/business/Business.ttf 00EF gears
+fonts/business/Business.ttf 0052 business preso
+fonts/business/Business.ttf 004F three group
+fonts/business/Business.ttf 0026 heirarchy
+fonts/business/Business.ttf 005C presentation
+
+fonts/new_gang/Car Parts.otf 0070 fan
+
+fonts/cleaner/Cleaning.ttf X cleaner
+fonts/cleaner/Cleaning.ttf 003F plumbing
+fonts/cleaner/Cleaning.ttf 0046 clean
+fonts/cleaner/Cleaning.ttf 0069 spray
+
+fonts/construction_icons/Construction Icons.otf 0041 mech
+fonts/construction_icons/Construction Icons.otf 005B hook
+fonts/construction_icons/Construction Icons.otf 006F shovel
+fonts/construction_icons/Construction Icons.otf 00B4 engineer
+fonts/construction_icons/Construction Icons.otf 00B8 crane
+fonts/construction_icons/Construction Icons.otf 00C8 brick wall
+fonts/construction_icons/Construction Icons.otf 00B5 hammer
+fonts/construction_icons/Construction Icons.otf 00B6 shovel in dirt
+fonts/construction_icons/Construction Icons.otf 0067 paint
+fonts/construction_icons/Construction Icons.otf 0078 construction
+fonts/construction_icons/Construction Icons.otf 0064 crane
+fonts/construction_icons/Construction Icons.otf 00DA construction
+fonts/construction_icons/Construction Icons.otf 00BF wrench
+
+fonts/curses/curs.ttf 004E fire
+fonts/curses/curs.ttf 0078 bomb
+fonts/curses/curs.ttf 0071 knife
+
+fonts/dinosaur_icons/Dinosaur Icons.otf 006D dino skull
+
+fonts/dpoly/dPoly 4EDings.ttf 0066 fist
+fonts/dpoly/dPoly 4EDings.ttf 005E dice
+
+fonts/dpoly/dPoly Duodecahedron.ttf 0054 d20
+
+fonts/e_commerce/E-commerce.ttf 006C gift
+fonts/e_commerce/E-commerce.ttf 0068 lock
+
+fonts/ecology/Ecology.ttf 0024 factory
+fonts/ecology/Ecology.ttf 0036 apple teacher
+fonts/ecology/Ecology.ttf 0060 palm trees
+
+fonts/emblem/Emblem vol1.ttf 005E emblem swords
+fonts/emblem/Emblem vol1.ttf 00C1 swords
+fonts/emblem/Emblem vol1.ttf 005F emblem castle
+fonts/emblem/Emblem vol1.ttf 005D emblem arrows
+fonts/emblem/Emblem vol1.ttf 0058 axe
+fonts/emblem/Emblem vol1.ttf 0059 lightning
+
+fonts/fairy_tales/Fairy Tales.ttf 0022 pinocchio
+fonts/fairy_tales/Fairy Tales.ttf 0056 spartan
+fonts/fairy_tales/Fairy Tales.ttf 006E cavalier
+fonts/fairy_tales/Fairy Tales.ttf 0073 crystal ball
+fonts/fairy_tales/Fairy Tales.ttf 00C5 knight
+
+fonts/fantastic-creatures/fantastic.ttf 0069 phoenix
+
+fonts/farm/Farm.ttf 0038 farm
+fonts/farm/Farm.ttf 0063 sunrise
+fonts/farm/Farm.ttf 002B sun
+fonts/farm/Farm.ttf 0056 farm
+fonts/farm/Farm.ttf 0065 corn
+fonts/farm/Farm.ttf 0031 farmer
+
+fonts/farmacy/Farmacy.ttf 0042 medical
+
+fonts/fire/Fire.ttf 0038 fire
+
+fonts/glyphyx-one/GlyphyxOneNF.ttf 004A meeting
+fonts/glyphyx-one/GlyphyxOneNF.ttf 0071 baby
+
+fonts/glyphyx-two/GlyphyxTwoNF.ttf 0072 tent
+fonts/glyphyx-two/GlyphyxTwoNF.ttf 0073 tent
+fonts/glyphyx-two/GlyphyxTwoNF.ttf 0056 sniper
+fonts/glyphyx-two/GlyphyxTwoNF.ttf 0037 medical
+
+fonts/graphic_design/Graphic design.ttf 0065 fountain pen
+fonts/graphic_design/Graphic design.ttf 0037 lightbulb
+fonts/graphic_design/Graphic design.ttf 0040 painting
+fonts/graphic_design/Graphic design.ttf 0043 brain idea
+
+fonts/gyptienne/GyptienneNormal.ttf 0062 ankh
+fonts/hazard-signs/Hazard Signs.ttf 0021 warning
+fonts/hazard-signs/Hazard Signs.ttf 0022 biohazard
+fonts/hazard-signs/Hazard Signs.ttf 0051 medical
+
+fonts/heydings_icons/heydings_icons.ttf 004B key
+fonts/heydings_icons/heydings_icons.ttf 0054 stopwatch
+fonts/heydings_icons/heydings_icons.ttf 0066 flag
+
+fonts/hipster_icons/Hipster Icons.ttf 0068 polka-dot bow tie
+
+fonts/history_icons/History Icons.otf 002C viking
+fonts/history_icons/History Icons.otf 002F sword and shield
+fonts/history_icons/History Icons.otf 0032 forge
+fonts/history_icons/History Icons.otf 0056 ruins
+fonts/history_icons/History Icons.otf 005E parchment
+fonts/history_icons/History Icons.otf 006A parchment
+fonts/history_icons/History Icons.otf 007A book
+fonts/history_icons/History Icons.otf 0076 laurels
+
+fonts/jigsaw_puzzles_3d/JigsawPuzzles3DFilled.ttf 45 puzzle piece
+
+fonts/karate-chop/karatechop.ttf 0044 karate
+fonts/karate-chop/karatechop.ttf 004F karate
+
+fonts/kota-surabaya/Kota Surabaya.ttf 0055 park
+
+fonts/laboratory/Laboratory.otf 0033 e=mc2
+fonts/laboratory/Laboratory.otf 0035 scientist
+fonts/laboratory/Laboratory.otf 003B magnetic
+fonts/laboratory/Laboratory.otf 006C DNA
+fonts/laboratory/Laboratory.otf 0046 beaker
+fonts/laboratory/Laboratory.otf 0061 chemistry
+fonts/laboratory/Laboratory.otf 0063 nuclear
+fonts/laboratory/Laboratory.otf 0064 microscope
+
+fonts/law-and-order/laworder.ttf 0038 scales
+fonts/law-and-order/laworder.ttf 0037 scales
+fonts/law-and-order/laworder.ttf 006E gavel
+fonts/law-and-order/laworder.ttf 0077 fighter plans
+
+fonts/leafs/Leafs.ttf 004C plants
+fonts/leafs/Leafs.ttf 004D leaf
+fonts/leafs/Leafs.ttf 0059 oak leaf
+
+fonts/library/Library.ttf 0025 book
+fonts/library/Library.ttf 002E book
+fonts/library/Library.ttf 0034 book
+fonts/library/Library.ttf 00DF book
+
+fonts/liturgica/Liturgica-Medium.otf 46 heart hands
+fonts/liturgica/Liturgica-Medium.otf 48 serving love
+fonts/liturgica/Liturgica-Medium.otf 56 lighthouse
+fonts/liturgica/Liturgica-Medium.otf 61 candles
+fonts/liturgica/Liturgica-Medium.otf 6C plant shoots
+fonts/liturgica/Liturgica-Medium.otf 74 classroom
+fonts/liturgica/Liturgica-Medium.otf 7A angels
+
+fonts/mafia_mix/Mafia Mix.ttf 0024 jail
+fonts/mafia_mix/Mafia Mix.ttf 26 knife blood
+fonts/mafia_mix/Mafia Mix.ttf 27 fist power
+fonts/mafia_mix/Mafia Mix.ttf 2A molotov cocktail
+fonts/mafia_mix/Mafia Mix.ttf 38 broken bottle
+fonts/mafia_mix/Mafia Mix.ttf 4A hand with bat
+fonts/mafia_mix/Mafia Mix.ttf 52 cards 
+fonts/mafia_mix/Mafia Mix.ttf 73 vest
+fonts/mafia_mix/Mafia Mix.ttf 7C safe
+fonts/mafia_mix/Mafia Mix.ttf A1 handcuffs
+fonts/mafia_mix/Mafia Mix.ttf A8 diamond
+fonts/mafia_mix/Mafia Mix.ttf D9 grenade
+fonts/mafia_mix/Mafia Mix.ttf F6 nuke waste
+
+fonts/markbats_2/Markbats 2.ttf 71 lightning
+fonts/markbats_2/Markbats 2.ttf F2 magician
+fonts/markbats_2/Markbats 2.ttf 6D paw print
+
+fonts/material/MaterialIcons-Regular.ttf E029 microphone
+fonts/material/MaterialIcons-Regular.ttf E138 med drugs
+fonts/material/MaterialIcons-Regular.ttf E16E flag
+fonts/material/MaterialIcons-Regular.ttf E1BC art painting
+fonts/material/MaterialIcons-Regular.ttf E175 vote
+fonts/material/MaterialIcons-Regular.ttf E2EB piggy bank
+fonts/material/MaterialIcons-Regular.ttf E322 chip
+fonts/material/MaterialIcons-Regular.ttf E322 gear broadcasting
+fonts/material/MaterialIcons-Regular.ttf E3A2 weird planet
+fonts/material/MaterialIcons-Regular.ttf E3A5 weird planet
+fonts/material/MaterialIcons-Regular.ttf E502 sailing
+fonts/material/MaterialIcons-Regular.ttf E50A hiking
+fonts/material/MaterialIcons-Regular.ttf E545 flower
+fonts/material/MaterialIcons-Regular.ttf E546 gas
+fonts/material/MaterialIcons-Regular.ttf E547 shopping
+fonts/material/MaterialIcons-Regular.ttf E54c shopping
+fonts/material/MaterialIcons-Regular.ttf E550 pharma
+fonts/material/MaterialIcons-Regular.ttf E63E wifi
+fonts/material/MaterialIcons-Regular.ttf E640 wifi with meter
+fonts/material/MaterialIcons-Regular.ttf E761 sustain agri
+fonts/material/MaterialIcons-Regular.ttf E869 wrench
+fonts/material/MaterialIcons-Regular.ttf E87D heart
+fonts/material/MaterialIcons-Regular.ttf E90D fingerprint
+fonts/material/MaterialIcons-Regular.ttf E91D paw print
+fonts/material/MaterialIcons-Regular.ttf EA2D helmet
+fonts/material/MaterialIcons-Regular.ttf EA21 two people
+fonts/material/MaterialIcons-Regular.ttf EA23 trophy
+fonts/material/MaterialIcons-Regular.ttf EA3A microscope
+fonts/material/MaterialIcons-Regular.ttf EA78 meditation
+fonts/material/MaterialIcons-Regular.ttf EA99 forests
+fonts/material/MaterialIcons-Regular.ttf EAAD castle
+fonts/material/MaterialIcons-Regular.ttf EAD3 brackets
+fonts/material/MaterialIcons-Regular.ttf EB46 bath
+fonts/material/MaterialIcons-Regular.ttf EBA5 rocket
+fonts/material/MaterialIcons-Regular.ttf EBF7 SOS
+fonts/material/MaterialIcons-Regular.ttf EBBA broadcast
+fonts/material/MaterialIcons-Regular.ttf EB9B rocket
+fonts/material/MaterialIcons-Regular.ttf EB3D infinity
+fonts/material/MaterialIcons-Regular.ttf EF55 fire
+fonts/material/MaterialIcons-Regular.ttf EF56 shield
+fonts/material/MaterialIcons-Regular.ttf EFF5 boat
+fonts/material/MaterialIcons-Regular.ttf F049 robotic arm
+fonts/material/MaterialIcons-Regular.ttf F102 plug
+fonts/material/MaterialIcons-Regular.ttf F107 wrench
+fonts/material/MaterialIcons-Regular.ttf F109 medical bag
+fonts/material/MaterialIcons-Regular.ttf F10B carpenter
+fonts/material/MaterialIcons-Regular.ttf F19B changing baby
+fonts/material/MaterialIcons-Regular.ttf F220 global warming
+fonts/material/MaterialIcons-Regular.ttf F221 virus
+fonts/material/MaterialIcons-Regular.ttf F8D7 army of love
+fonts/material/MaterialIcons-Regular.ttf F8D9 seance
+
+fonts/maze_2/Maze.otf 65 maze
+fonts/maze_2/Maze.otf 66 another maze
+
+fonts/mechanic/Mechanic.ttf 44 oil
+fonts/mechanic/Mechanic.ttf 54 mech
+
+fonts/mf-dings-2/MF Dings 2.ttf 0055 Paw
+fonts/mf-dings-2/MF Dings 2.ttf 0072 diamond
+
+fonts/mountain/Mountain.ttf 71 mountain with sun
+fonts/mountain/Mountain.ttf 72 mountain with moon
+fonts/mountain/Mountain.ttf 73 mountain
+
+fonts/nautical/Nautical.ttf 0055 waves
+fonts/nautical/Nautical.ttf 0042 nav wheel
+fonts/nautical/Nautical.ttf 006E life preserver
+
+
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 2694 crossed swords
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 2695 medicine
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 2696 scales
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 2697 chemistry
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 2698 flower
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 269B nuclear
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 26B0 coffin
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 26F1 resort
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 26F2 fountain
+fonts/noto_sans_symbols/static/NotoSansSymbols-Regular.ttf 267A recycle
+
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 1F5E1 dagger
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2615 coffee
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 2623 biohazard
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 26CF mining
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf ☕ coffee
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf ☘ lucky
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf ☠ skull crossbones
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf ☣ biohazard
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🌬 woman wind
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🎓 education
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🎖 medal
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🎭 theater
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏌 golf
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏎 race car
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏕 camping
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏖 beach
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏗 crane
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏛 courthouse
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🏟 stadium
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 1F3ED factory
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🐿 squirrel
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 💣 bomb
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🕊 peace
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🕰 clock
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🕵 detective
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🖧 computer network
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🖼 painting
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🗃 files
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🗨 talk
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🛍 shopping
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🛖 hut
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🛠 mech
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🛦 plane
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🤻 horse rider
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🥆 sniper
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🩴 flip flops
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 🪁 kite
+fonts/noto_sans_symbols_2/NotoSansSymbols2-Regular.ttf 1F3C6 trophy
+
+fonts/oil_icons/Oil Icons.ttf 005C refinery
+fonts/oil_icons/Oil Icons.ttf 0060 graph down
+fonts/oil_icons/Oil Icons.ttf 0073 fire
+
+fonts/olympicons/olympi.ttf 0061 archery
+fonts/olympicons/olympi.ttf 002F olympic flame
+fonts/olympicons/olympi.ttf 0032 fencing
+
+
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf 3B silicon
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf 45 Krypton
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf 50 silver
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf 63 gold
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf D4 uranium
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf D6 plutonium
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf DC californium
+fonts/periodic_table_of_elements/Periodic Table of Elements.ttf E0 einsteinium
+
+fonts/phonics_bats_by_phontz/Phonics-Bats-by-Phontz.ttf 4B key
+fonts/phonics_bats_by_phontz/Phonics-Bats-by-Phontz.ttf 51 i have a question
+fonts/phonics_bats_by_phontz/Phonics-Bats-by-Phontz.ttf 54 trophy
+fonts/phonics_bats_by_phontz/Phonics-Bats-by-Phontz.ttf 6D map
+fonts/phonics_bats_by_phontz/Phonics-Bats-by-Phontz.ttf 77 spiderweb
+
+fonts/piratas/Piratas.otf 2D treasure map
+fonts/piratas/Piratas.otf 30 palm trees
+fonts/piratas/Piratas.otf 33 treasure map vertical
+
+fonts/planets/Planets.otf 2C star whirl
+fonts/planets/Planets.otf 2F satellite thing
+fonts/planets/Planets.otf 30 another asteroid
+fonts/planets/Planets.otf 53 asteroid
+fonts/planets/Planets.otf 5C comet
+fonts/planets/Planets.otf 6F satellite
+fonts/planets/Planets.otf 76 asteroid
+
+fonts/police_department/Police Department.otf 30 police_department
+fonts/police_department/Police Department.otf 56 handcuffs
+fonts/police_department/Police Department.otf 5A gavel
+fonts/police_department/Police Department.otf 69 badge
+fonts/police_department/Police Department.otf 6D wanted
+fonts/police_department/Police Department.otf 6F jail
+fonts/police_department/Police Department.otf 79 bullets
+
+fonts/police/Police.ttf 00A7 five startup_icons
+
+fonts/pregnancy/Pregnancy.ttf 36 heartbeat
+
+fonts/rally_symbols/Rally_Symbols.otf 27 laurels
+fonts/rally_symbols/Rally_Symbols.otf 3E film
+
+fonts/retro-isotype/Retro Isotype.otf 00C0 top hat
+
+fonts/robotic_arm/Robotic Arm.otf 47 robot arm
+fonts/robotic_arm/Robotic Arm.otf 61 robot arm
+fonts/robotic_arm/Robotic Arm.otf C5 robot arm
+fonts/robotic_arm/Robotic Arm.otf C6 robot arm
+
+fonts/science_icons/Science Icons.ttf 35 prism
+fonts/science_icons/Science Icons.ttf 47 telescope
+fonts/science_icons/Science Icons.ttf A2 e=mc2
+fonts/science_icons/Science Icons.ttf D0 university
+fonts/science_icons/Science Icons.ttf D3 DNA
+fonts/science_icons/Science Icons.ttf D5 bulb liturgica
+fonts/science_icons/Science Icons.ttf D7 magnifying glass
+fonts/science_icons/Science Icons.ttf DC rocket
+
+fonts/sea_life/Sea Life.otf 4A octopus
+
+fonts/snake_mix/Snake mix.otf 65 snake
+fonts/snake_mix/Snake mix.otf 6C snake
+
+fonts/special_forces/Special Forces.ttf 23 bombs
+fonts/special_forces/Special Forces.ttf 3B precision sniper
+fonts/special_forces/Special Forces.ttf 3E fire
+fonts/special_forces/Special Forces.ttf 42 tank
+fonts/special_forces/Special Forces.ttf 4B dog tags
+fonts/special_forces/Special Forces.ttf 52 rank
+fonts/special_forces/Special Forces.ttf 78 medal
+fonts/special_forces/Special Forces.ttf C1 rank
+fonts/special_forces/Special Forces.ttf D1 gas mask
+fonts/special_forces/Special Forces.ttf D5 infantry
+
+fonts/sport_4_ever/Sport 4 Ever.ttf 20 scuba
+fonts/sport_4_ever/Sport 4 Ever.ttf 43 soccer
+
+fonts/spycon/Spycon Regular.ttf 007B chess piece
+fonts/spycon/Spycon Regular.ttf 00DF target
+fonts/spycon/Spycon Regular.ttf 0047 suits
+fonts/spycon/Spycon Regular.ttf 0041 bomb
+
+fonts/startup_icons/Startup Icons.otf 22 engineer brain
+fonts/startup_icons/Startup Icons.otf 29 goal steps
+fonts/startup_icons/Startup Icons.otf 2B up arrow chart
+fonts/startup_icons/Startup Icons.otf 2C puzzle
+fonts/startup_icons/Startup Icons.otf 33 alarm clock
+
+fonts/startup_icons/Startup Icons.otf 3C missing piece
+fonts/startup_icons/Startup Icons.otf 45 icon
+fonts/startup_icons/Startup Icons.otf 48 on target
+fonts/startup_icons/Startup Icons.otf 4E rocket
+fonts/startup_icons/Startup Icons.otf 51 org chart
+fonts/startup_icons/Startup Icons.otf 52 handshake
+fonts/startup_icons/Startup Icons.otf A1 chess piece
+fonts/startup_icons/Startup Icons.otf 69 medal
+fonts/startup_icons/Startup Icons.otf 7A business deal
+fonts/startup_icons/Startup Icons.otf 7D plant the flag
+
+fonts/stay_on_target/StayOnTarget-Regular.ttf 5D signal beat
+
+fonts/the_fortune/The Fortune.otf 5D crystal ball
+fonts/the_fortune/The Fortune.otf 67 crystal ball
+fonts/the_fortune/The Fortune.otf 6C casting runes
+fonts/the_fortune/The Fortune.otf 43 crystal ball
+fonts/the_fortune/The Fortune.otf 3E magic wand
+fonts/the_fortune/The Fortune.otf 4A cards
+fonts/the_fortune/The Fortune.otf 65 candles
+
+fonts/travelcons/travelcons.ttf 49 passport control
+fonts/travelcons/travelcons.ttf 75 customs
+
+fonts/urban-ecology/UrbanEcology.ttf 0021 virus
+
+fonts/vegan_icons/Vegan Icons.ttf 57 plants
+fonts/vegan_icons/Vegan Icons.ttf 60 corn
+
+fonts/working_signs_tfb/working signs tfb.ttf 26 gas mask
+
+
