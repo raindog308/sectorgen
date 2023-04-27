@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# sectorgen
+# by andrew fabbro <andrew@fabbro.org> (raindog308)
+# https://github.com/raindog308/sectorgen
+# see LICENSE for license image (spoiler: MIT)
+
 import os, random, sys, time
 from wand.color  import Color
 from wand.drawing import Drawing
