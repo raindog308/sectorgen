@@ -1,6 +1,7 @@
 ![sectorgen logo](https://github.com/raindog308/sectorgen/blob/main/art/sectorgen_github.png "sectorgen")
 
-# sectorgen: full-featured sector maps for roleplaying games
+# sectorgen
+## full-featured sector maps for roleplaying games
 
 sectorgen generates 8x10 space sector hex maps.  These are similar to the classic Traveller-style maps we all know and love, but with a different emphasis.
 
