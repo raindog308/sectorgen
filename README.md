@@ -14,7 +14,6 @@ The generated maps are finely detailed but are perfect for use on a tablet or co
 
 # Example
 
-[Duck Duck Go](https://duckduckgo.com).
 This example is scaled down to 1200x1800.  The actual sectorgen output is 6400x9000.  You can [download the full example.png here](https://github.com/raindog308/sectorgen/blob/main/example.png) (example.png in the repo), though you should probably save it and open it locally as GitHub will cut off much of the image.
 
 ![sectorgen logo](https://github.com/raindog308/sectorgen/blob/main/example-1200x1800.png "sectorgen example.png scaled down")
