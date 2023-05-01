@@ -12,6 +12,12 @@ sectorgen is a Python script is tunable on many dimensions. It produces a 6400x9
 
 The generated maps are finely detailed but are perfect for use on a tablet or computer where you can zoom in to focus on where you're adventuring.
 
+# Example
+
+This example is scaled down to 1200x1800.  The actual sectorgen output is 6400x9000.
+
+![sectorgen logo](https://github.com/raindog308/sectorgen/blob/main/example-1200x1800.png "sectorgen example.png scaled down")
+
 # Instructions
 
 sectorgen is a Python 3 script.  It requires wand: http://docs.wand-py.org
