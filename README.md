@@ -18,6 +18,13 @@ This example is scaled down to 1200x1800.  The actual sectorgen output is 6400x9
 
 ![sectorgen logo](https://github.com/raindog308/sectorgen/blob/main/example-1200x1800.png "sectorgen example.png scaled down")
 
+# Just Want Some Maps?
+
+If you just want to use some maps rather than generate your own, look in the 'maps' directory, which contains
+
+- 100 maps in maps/normal
+- 100 maps in maps/wacky with turn_on_wackiness set to True.  This adds fun icons (Taco Bell, superheroes, Star Wars, and more)
+
 # Instructions
 
 sectorgen is a Python 3 script.  It requires wand: http://docs.wand-py.org
